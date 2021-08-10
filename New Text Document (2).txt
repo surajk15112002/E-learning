@@ -1,0 +1,9 @@
+1.	public class SumOfNumbers1  
+2.	{  
+3.	public static void main(String args[])   
+4.	{  
+5.	int n1 = 225, n2 = 115, sum;  
+6.	sum = n1 + n2;  
+7.	System.out.println("The sum of numbers is: "+sum);  
+8.	}  
+9.	}  
